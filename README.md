@@ -2,4 +2,4 @@
 
 El libro está disponible bajo la licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), lo que permite la libre reutilización y modificación de los materiales siempre que se acredite a las autoras.
 
-El documento con la traducción es el: `index.Rmd`
+El documento con la traducción es el: `index.Rmd`. La carpeta `_book` fue generada automaticamente por [**bookdown**](https://bookdown.org/).
